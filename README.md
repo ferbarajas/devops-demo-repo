@@ -1,2 +1,2 @@
 # devops-demo-repo
-DevOps demo
+This is a repo used for a DevOps course.
